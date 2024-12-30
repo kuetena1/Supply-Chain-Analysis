@@ -9,7 +9,8 @@ Identifying drivers of sales and profitability.
 Addressing inefficiencies in specific product categories.
 
 Optimizing shipping performance and reducing variability.
-
+The dataset was provided by Kaggle [Here](https://www.kaggle.com/datasets/shandeep777/retail-supply-chain-sales-dataset/data
+),  and the [Analysis](https://github.com/kuetena1/Supply-Chain-Analysis/blob/main/supply_chain_insights.ipynb) was conducted using Jupyter Notebook.
 ## Objectives
 
 Sales and Profitability Analysis: Determine key sales and profit drivers while identifying underperforming products and categories.
